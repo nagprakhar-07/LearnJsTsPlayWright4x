@@ -1,0 +1,32 @@
+Rules for Identifiers in JavaScript
+Allowed Characters: Letters (a–z, A–Z), digits (0–9), underscore _, and dollar sign $.
+
+Starting Character: Must begin with a letter, _, or $. Cannot start with a digit.
+
+Case Sensitivity: myVar, MyVar, and myvar are treated as different identifiers.
+
+No Whitespace or Special Characters: Cannot contain spaces or symbols like -, +, *, !.
+
+Reserved Words Restriction: Keywords cannot be used as identifiers (let, class, return).
+
+Unicode Support: Identifiers can include Unicode characters (e.g., const π = 3.14;).
+
+👉 Examples:
+
+js
+let userCount = 10;   // ✅ valid
+let _internalId = 42; // ✅ valid
+let $element = "div"; // ✅ valid
+let 123temp = "bad";  // ❌ invalid
+let my variable = 5;  // ❌ invalid
+
+
+Key Risks & Best Practices
+
+Risk: Using reserved keywords as identifiers → SyntaxError.
+
+Best Practice: Use camelCase for variables/functions, PascalCase for classes, and UPPERCASE for constants.
+
+Clarity: Choose descriptive names (isActiveUser instead of flag).
+
+Consistency: Follow project naming conventions for maintainability.
