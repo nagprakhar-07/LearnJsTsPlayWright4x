@@ -14,6 +14,9 @@ A collection of small, standalone JavaScript examples for learning the language 
 | `06_chatper_if_else_statement_Condition` | `if`, `if/else`, nested conditions, and multiple branches |
 | `07_chapter_switch` | `switch` statements, grouped cases, and practice questions |
 | `08_chapter_UserInput` | Browser prompts and reading user input in Node.js |
+| `09_chapter_Loops` | Basic loops, `for` loops, and practice questions |
+| `10_chapter_Loops_WHILE` | `while` loops, `break`, and practice questions |
+| `11_chapter_Loops_DoWhile` | `do...while` loops, nested loops, and practice questions |
 
 ## Getting started
 
