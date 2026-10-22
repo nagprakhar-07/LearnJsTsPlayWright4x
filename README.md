@@ -17,6 +17,7 @@ A collection of small, standalone JavaScript examples for learning the language 
 | `09_chapter_Loops` | Basic loops, `for` loops, and practice questions |
 | `10_chapter_Loops_WHILE` | `while` loops, `break`, and practice questions |
 | `11_chapter_Loops_DoWhile` | `do...while` loops, nested loops, and practice questions |
+| `12_chapters_Arrays` | Array creation, access, modification, searching, iteration, transformations, sorting, slicing, copying, destructuring, and swapping |
 
 ## Getting started
 
