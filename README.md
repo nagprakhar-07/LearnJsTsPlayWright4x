@@ -18,6 +18,8 @@ A collection of small, standalone JavaScript examples for learning the language 
 | `10_chapter_Loops_WHILE` | `while` loops, `break`, and practice questions |
 | `11_chapter_Loops_DoWhile` | `do...while` loops, nested loops, and practice questions |
 | `12_chapters_Arrays` | Array creation, access, modification, searching, iteration, transformations, sorting, slicing, copying, destructuring, and swapping |
+| `13_chapter_Functions` | Function declarations, parameters and return values, function expressions, arrow functions, IIFEs, and spread arguments |
+| `14_chapter_Var_Let_Const_Hoisting_TDZ` | `var`, `let`, and `const` declarations and function/block scope |
 
 ## Getting started
 
