@@ -22,6 +22,7 @@ A collection of small, standalone JavaScript examples for learning the language 
 | `14_chapter_Var_Let_Const_Hoisting_TDZ` | `var`, `let`, and `const` declarations, scope, hoisting, and the temporal dead zone |
 | `15_chapter_Functions_Closure` | Closures and lexical scope |
 | `16_chapter_String` | String creation, template literals, properties, character access, and searching |
+| `17_Objects_JS` | Object properties and methods, access and modification, references, and shallow/deep copying |
 
 ## Getting started
 
