@@ -23,6 +23,7 @@ A collection of small, standalone JavaScript examples for learning the language 
 | `15_chapter_Functions_Closure` | Closures and lexical scope |
 | `16_chapter_String` | String creation, template literals, properties, character access, and searching |
 | `17_Objects_JS` | Object properties and methods, access and modification, references, and shallow/deep copying |
+| `18_Multi_Dimensions_Array` | Multidimensional arrays, 2D array traversal, array transformations with `map` and `reduce`, and star patterns |
 
 ## Getting started
 
