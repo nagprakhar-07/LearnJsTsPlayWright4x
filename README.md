@@ -26,7 +26,7 @@ A collection of small, standalone JavaScript examples for learning the language 
 | `18_Multi_Dimensions_Array` | Multidimensional arrays, 2D array traversal, array transformations with `map` and `reduce`, and star patterns |
 | `19_Callback` | Synchronous and asynchronous callbacks, callback returns, and callback hell |
 | `20_Promise` | Promise creation, chaining, error handling, `finally`, and combinators such as `all`, `allSettled`, and `race` |
-| `21_Async_Await` | `async` functions and `await` for working with promises |
+| `21_Async_Await` | `async`/`await`, sequential and parallel tasks, error handling, retries, and Playwright test examples |
 
 ## Getting started
 
@@ -45,6 +45,6 @@ Run an individual lesson from the repository root:
 node .\01_chapter_JS_Basics\01_HelloWorld.js
 ```
 
-Each `.js` file is intended to be run independently. Browse a chapter folder and pass the desired file path to `node`; the output appears in the terminal.
+Each `.js` file is intended to be run independently. Browse a chapter folder and pass the desired file path to `node`; the output appears in the terminal. Playwright `.spec.ts` examples use `@playwright/test` and should be run with the Playwright test runner.
 
 The user-input chapter includes examples with different runtimes: `59_UI.js` uses the browser's `prompt()` and should be run in a browser, while the other examples use Node.js input APIs. `61_Prompt_sync.js` additionally requires the `prompt-sync` package.
