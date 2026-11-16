@@ -30,6 +30,9 @@ A collection of small, standalone JavaScript examples for learning the language 
 | `22_Export_Import` | JavaScript modules, named and default exports, and imports |
 | `23_Class_Objects` | Classes, properties, methods, and creating instances |
 | `24_Playwright` | Playwright browser tests with Chromium, Firefox, and WebKit |
+| `25_Class_Object_Constructor` | Class constructors, instance and static members, and object initialization |
+| `26_OOPs_Encapsulation` | Encapsulation, private fields, and controlled access through methods |
+| `27_OOPs_Inheritance` | Single inheritance, `extends`, `super`, method overriding, and polymorphism |
 
 ## Getting started
 
