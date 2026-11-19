@@ -33,6 +33,10 @@ A collection of small, standalone JavaScript examples for learning the language 
 | `25_Class_Object_Constructor` | Class constructors, instance and static members, and object initialization |
 | `26_OOPs_Encapsulation` | Encapsulation, private fields, and controlled access through methods |
 | `27_OOPs_Inheritance` | Single inheritance, `extends`, `super`, method overriding, and polymorphism |
+| `28_OOPs_Polymorphism` | Polymorphism examples and method overriding |
+| `29_IQ` | Object-oriented programming practice examples |
+| `30_Typescript` | TypeScript introduction and JavaScript-to-TypeScript examples |
+| `31_Typescript` | Primitive and array types, function and object annotations, `void`, and `never` |
 
 ## Getting started
 
@@ -60,6 +64,13 @@ cd 24_Playwright
 npm install
 npx playwright install
 npx playwright test
+```
+
+The TypeScript examples use the repository's root TypeScript dependencies. Install them and run an example with:
+
+```bash
+npm install
+npx ts-node .\31_Typescript\218.ts
 ```
 
 The user-input chapter includes examples with different runtimes: `59_UI.js` uses the browser's `prompt()` and should be run in a browser, while the other examples use Node.js input APIs. `61_Prompt_sync.js` additionally requires the `prompt-sync` package.
